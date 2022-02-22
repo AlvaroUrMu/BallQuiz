@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BallQuiz</string>
+    <string name="tvLevel">Elige un nivel de dificultad</string>
+    <string name="btEasy">fácil</string>
+    <string name="btMedium">medio</string>
+    <string name="btHard">difícil</string>
+    <string name="tvResult">¿Cuántas bolas has podido ver?</string>
+    <string name="btResult">Confirmar</string>
+    <string name="tvVictory">¡Enhorabuena, has ganado!</string>
+    <string name="btBack">volver al menú principal</string>
+    <string name="btPhoto">record photo</string>
+    <string name="tvLose">Lo siento, has perdido</string>
+    <string name="btRetry">reintentar</string>
+</resources>
